@@ -62,8 +62,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\macouille.cs" />
     <Compile Include="Assets\Scripts\ntmGit.cs" />
     <Compile Include="Assets\Scripts\test.cs" />
+    <Compile Include="Assets\Scripts\test1.cs" />
     <Compile Include="Assets\Scripts\TestGithub.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/_Projets perso/TestGIT/GitTest/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
