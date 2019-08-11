@@ -64,6 +64,8 @@
   <ItemGroup>
     <Compile Include="Assets\macouille.cs" />
     <Compile Include="Assets\Scripts\ntmGit.cs" />
+    <Compile Include="Assets\Scripts\Scripts_test\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Scripts_test\UImanager.cs" />
     <Compile Include="Assets\Scripts\test.cs" />
     <Compile Include="Assets\Scripts\test1.cs" />
     <Compile Include="Assets\Scripts\TestGithub.cs" />
